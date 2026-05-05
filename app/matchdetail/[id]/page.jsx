@@ -8,7 +8,7 @@ const MatchDetailScreen = () => {
             {/* Hero Image Section */}
             <div className="relative h-72 w-full">
                 <img
-                    src="https://i.ibb.co.com/0yCB4xg4/ef.jpg"
+                    src="/ef.jpg"
                     alt="Match Header"
                     className="w-full h-full object-cover"
                 />
